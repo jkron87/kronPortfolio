@@ -1,0 +1,56 @@
+.sm_round {
+  border-radius: 50%;
+  width: 100px;
+  height: auto;
+
+}
+.well{
+width: 75%;
+margin:auto;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+.navbar-brand {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 2em;
+}
+
+h2 {
+  font-family: 'Varela Round', sans-serif;
+
+
+}
+body { padding-top: 80px; }
+
+.flexbox {
+ display:flex;
+ justify-content:center;
+ align-items: center;
+ flex-flow: column;
+}
+
+
+.navbar {
+  background-color: rgba(255,255,255,0.8)
+}
+
+.nav-margin {
+  margin-top: 15px;
+}
+
+.thumbnail:hover {
+  opacity: 0.75;
+}
+
+
+input  {
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-circle {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
